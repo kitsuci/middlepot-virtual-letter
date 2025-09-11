@@ -1,5 +1,7 @@
 # middlepot-virtual-letter
 
+a cute, virtual letter html template.
+
 all code & assets belong to middlepot.com respectively
 <br>
 original site link: https://mail.pooftie.me/
