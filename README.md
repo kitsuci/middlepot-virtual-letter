@@ -1,4 +1,4 @@
-# middlepot-virtual-letter
+# virtual letter
 
 a cute, virtual letter html template.
 
